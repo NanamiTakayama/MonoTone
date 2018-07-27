@@ -1,0 +1,9 @@
+{
+	"description": "for demo : python3 examples/app.py isaax_cloud_favicon16.png",
+	"main": "examples/app.py",
+	"author": "Nanami Setoyama",
+	"language":"python",
+	"license": "",
+	"scripts": {"start": "python3 aieye.py"}
+}
+				 
