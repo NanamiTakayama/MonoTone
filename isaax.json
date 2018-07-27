@@ -4,6 +4,6 @@
 	"author": "Nanami Setoyama",
 	"language":"python",
 	"license": "",
-	"scripts": {"start": "python3 aieye.py"}
+	"scripts": {"start": "python3 -u aieye.py"}
 }
 				 

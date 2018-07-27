@@ -18,9 +18,9 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1532696382,,"wq"
+|2,0,1532696908,,"wq"
 :q
-|2,0,1532695451,,"q"
+|2,0,1532696587,,"q"
 :set number
 |2,0,1532444635,,"set number"
 :q!
@@ -118,30 +118,38 @@ $
 |3,0,36,0,1,0,1532431385,"subprocess.call"
 
 # File marks:
-'0  7  35  ~/isaax.json
-|4,48,7,35,1532696382,"~/isaax.json"
-'1  1  0  ~/test.py
-|4,49,1,0,1532695451,"~/test.py"
-'2  1  0  ~/test.py
-|4,50,1,0,1532687675,"~/test.py"
-'3  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,51,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
-'4  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,52,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
-'5  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,53,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
-'6  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,54,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
-'7  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,55,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
-'8  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,56,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+'0  7  32  ~/isaax.json
+|4,48,7,32,1532696908,"~/isaax.json"
+'1  7  35  ~/isaax.json
+|4,49,7,35,1532696587,"~/isaax.json"
+'2  7  35  ~/isaax.json
+|4,50,7,35,1532696382,"~/isaax.json"
+'3  7  35  ~/isaax.json
+|4,51,7,35,1532696382,"~/isaax.json"
+'4  1  0  ~/test.py
+|4,52,1,0,1532695451,"~/test.py"
+'5  1  0  ~/test.py
+|4,53,1,0,1532687675,"~/test.py"
+'6  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,54,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+'7  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,55,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+'8  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,56,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
 '9  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
 |4,57,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
 
 # Jumplist (newest first):
+-'  7  32  ~/isaax.json
+|4,39,7,32,1532696908,"~/isaax.json"
+-'  7  35  ~/isaax.json
+|4,39,7,35,1532696587,"~/isaax.json"
 -'  7  35  ~/isaax.json
 |4,39,7,35,1532696382,"~/isaax.json"
+-'  1  0  ~/isaax.json
+|4,39,1,0,1532696269,"~/isaax.json"
+-'  1  0  ~/isaax.json
+|4,39,1,0,1532696269,"~/isaax.json"
 -'  1  0  ~/isaax.json
 |4,39,1,0,1532696269,"~/isaax.json"
 -'  1  0  ~/test.py
@@ -149,6 +157,30 @@ $
 -'  1  0  ~/test.py
 |4,39,1,0,1532695451,"~/test.py"
 -'  1  0  ~/test.py
+|4,39,1,0,1532695451,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1532695451,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1532695451,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1532695451,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1532695451,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1532695451,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1532687675,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1532687675,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1532687675,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1532687675,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1532687675,"~/test.py"
+-'  1  0  ~/test.py
+|4,39,1,0,1532687675,"~/test.py"
+-'  1  0  ~/test.py
 |4,39,1,0,1532687675,"~/test.py"
 -'  1  0  ~/test.py
 |4,39,1,0,1532687675,"~/test.py"
@@ -168,6 +200,102 @@ $
 |4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
 -'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
 |4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  868  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,868,0,1532444723,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
 -'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
 |4,39,864,0,1532444701,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
 -'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
@@ -200,154 +328,26 @@ $
 |4,39,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
 -'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
 |4,39,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444633,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  771  21  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,771,21,1532444616,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  711  10  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,711,10,1532444610,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
--'  710  22  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
-|4,39,710,22,1532444608,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
+-'  864  0  ~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt
+|4,39,864,0,1532444696,"~/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/output_labels.txt"
 
 # History of marks within files (newest to oldest):
 
 > ~/isaax.json
-	*	1532696381	0
-	"	7	35
-	^	7	36
-	.	7	35
+	*	1532696903	0
+	"	7	32
+	^	7	33
+	.	7	33
 	+	9	0
 	+	1	1
 	+	2	0
@@ -359,7 +359,7 @@ $
 	+	7	51
 	+	9	0
 	+	8	0
-	+	7	35
+	+	7	33
 
 > ~/test.py
 	*	1532695451	0
