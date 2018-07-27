@@ -63,9 +63,9 @@ def divide():
     return left, right
 
 def recognition():
-    analyseleft = shellCommand("python3 /home/pi/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/google_net_raspi.py --image /home/pi/left.jpg" )
+    analyseleft = shellCommand("python3 /home/pi/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/google_net_raspi.py --image /var/isaax/project/left.jpg" )
     #analyseleft = shellCommand("python3 /home/pi//MonoTone/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/google_net_raspi.py --image /home/pi/MonoTone/left.jpg" )
-    analyseright = shellCommand("python3 /home/pi/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/google_net_raspi.py --image /home/pi/right.jpg" )
+    analyseright = shellCommand("python3 /home/pi/monotone/Raspberry_Pi_3_Image_Classification/GoogleNet/google_net_raspi.py --image /var/isaax/project/right.jpg" )
     leftdata = analyseleft[0].decode("utf-8").split("\n")
     rightdata = analyseright[0].decode("utf-8").split("\n")
     print(leftdata)
